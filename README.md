@@ -8,3 +8,7 @@ IchigoJam＋MixJuiceで、現在時刻が取得できます。
 
 「I/O」をクリック→「MixJuice」にチェックを入れる
 
+## 使い方
+
+https://ichigojam.top/date/howto
+
